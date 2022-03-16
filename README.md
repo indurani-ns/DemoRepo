@@ -2,8 +2,6 @@
 
 This is the first file
 
-## Ipsum Below
+##Website Contents
 
-abcdefasdlfja;sdlfkjas;dlkfjas;dklfasjdlkfja;sdlfjaslkdjf;kalsdjf;kljdfkl.
-asldfjas;lkdfjalskdjfl;kasjdf;lkj;ljlkj
-
+asd;flkasjdf;kalsdjf;
